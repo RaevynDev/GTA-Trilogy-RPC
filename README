@@ -1,28 +1,51 @@
-GTA Trilogy RPC
+# GTA Trilogy RPC
 
-A Windows application that displays Discord Rich Presence while playing Grand Theft Auto III, Grand Theft Auto: Vice City, and Grand Theft Auto: San Andreas.
-Features
+A Windows application that brings detailed Discord Rich Presence to the original Grand Theft Auto Trilogy.
 
-    Automatic detection of supported GTA games.
+Display what you're doing in **Grand Theft Auto III**, **Grand Theft Auto: Vice City**, and **Grand Theft Auto: San Andreas** directly on your Discord profile.
 
-    Game-specific Discord Rich Presence and artwork.
+## Features
 
-    Live game-state information, including missions, locations, menus, and cutscenes where supported.
+- Automatic detection of supported GTA games.
+- Custom Discord Rich Presence artwork for each game.
+- Live game-state information, including menus, loading screens, free roam, missions, cutscenes, and paused states.
+- Location and mission information where supported.
+- Lightweight Windows system tray application.
 
-    Windows system tray application.
+## Supported Games
 
-Requirements
+- Grand Theft Auto III
+- Grand Theft Auto: Vice City
+- Grand Theft Auto: San Andreas
 
-    Windows x64
+## Requirements
 
-    Discord desktop application
+- Windows 10 or Windows 11, 64-bit.
+- Discord desktop application running.
+- A supported GTA game installed.
 
-    A supported GTA game installed
+## Installation
 
-Installation
+1. Visit the [Releases page](https://github.com/RaevynDev/GTA-Trilogy-RPC/releases).
+2. Download the latest Windows x64 archive.
+3. Extract the downloaded archive into a folder.
+4. Run `GtaTrilogyRpc.exe`.
+5. Launch a supported GTA game and check your Discord profile.
 
-Download the Windows x64 archive from the Releases page, extract it, and run GtaTrilogyRpc.exe.
+## Version
 
-Version 0.2.0 — early release.
+**Current release:** v0.2.0
 
-Copyright © 2026 RaevynDev. All rights reserved. No license is granted to copy, modify, or redistribute this project's source code without permission.
+This is an early release. Some features may behave differently depending on the game version or installation.
+
+## Bug Reports
+
+Found a bug or having trouble getting Rich Presence to work? Please report it through the repository's Issues page.
+
+## Copyright
+
+Copyright © 2026 RaevynDev. All rights reserved.
+
+This project is proprietary. No permission is granted to copy, modify, or redistribute the source code without the author's permission.
+
+This is an unofficial fan-made project and is not affiliated with or endorsed by Rockstar Games.
