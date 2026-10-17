@@ -1,0 +1,30 @@
+GTA Trilogy RPC
+
+A Windows application that displays Discord Rich Presence while playing Grand Theft Auto III, Grand Theft Auto: Vice City, and Grand Theft Auto: San Andreas.
+Features
+
+    Automatic detection of supported GTA games.
+
+    Game-specific Discord Rich Presence and artwork.
+
+    Live game-state information, including missions, locations, menus, and cutscenes where supported.
+
+    Windows system tray application.
+
+Requirements
+
+    Windows x64
+
+    Discord desktop application
+
+    A supported GTA game installed
+
+Installation
+
+Download the Windows x64 archive from the Releases page, extract it, and run GtaTrilogyRpc.exe.
+Status
+
+Version 0.2.0 — early release.
+Copyright
+
+Copyright © 2026 RaevynDev. All rights reserved. No license is granted to copy, modify, or redistribute this project's source code without permission.
