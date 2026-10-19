@@ -1,8 +1,10 @@
 # GTA Trilogy RPC
 
-A Windows application that brings detailed Discord Rich Presence to the original Grand Theft Auto Trilogy.
+A standalone Windows application that brings detailed Discord Rich Presence to the original Grand Theft Auto Trilogy.
 
-Display what you're doing in **Grand Theft Auto III**, **Grand Theft Auto: Vice City**, and **Grand Theft Auto: San Andreas** directly on your Discord profile.
+Display what you're doing in **Grand Theft Auto III**, **Grand Theft Auto: Vice City**, and **Grand Theft Auto: San Andreas** directly on your Discord profile, without needing the GTA Trilogy Launcher.
+
+GTA Trilogy RPC is available as an independent application and is also integrated into the GTA Trilogy Launcher. This repository contains the **standalone RPC application**, intended for users who want Discord Rich Presence without installing the launcher.
 
 ## Features
 
@@ -11,6 +13,7 @@ Display what you're doing in **Grand Theft Auto III**, **Grand Theft Auto: Vice 
 - Live game-state information, including menus, loading screens, free roam, missions, cutscenes, and paused states.
 - Location and mission information where supported.
 - Lightweight Windows system tray application.
+- Standalone operation, independent of the GTA Trilogy Launcher.
 
 ## Supported Games
 
@@ -40,7 +43,7 @@ This is an early release. Some features may behave differently depending on the 
 
 ## Bug Reports
 
-Found a bug or having trouble getting Rich Presence to work? Please report it through the repository's Issues page.
+Found a bug or having trouble getting Rich Presence to work? Please report it through this repository's Issues page.
 
 ## Copyright
 
